@@ -4,4 +4,4 @@ o---o
 |   |
 o---o
 </pre>
-Size depending on arguments given to program (x and y).
+Size depending on arguments given to program (x and y values).
